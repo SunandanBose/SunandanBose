@@ -61,4 +61,5 @@ Java   120 mins         ██████████████████�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SunandanBose&show_icons=true&theme=gotham" alt="SunandanBose" /></p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunandanBose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunandanBose&layout=compact)
+
