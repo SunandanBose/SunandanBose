@@ -43,7 +43,7 @@ Message me if you are looking for a great opportunity at Oracle, India.
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java   30 mins         █████████████████████████   100.00 % 
+Java   120 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
