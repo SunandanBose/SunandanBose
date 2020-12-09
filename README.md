@@ -23,19 +23,22 @@ Message me if you are looking for a great opportunity at Oracle, India.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Javascript and deploying applications using Kubernetes; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Sunandan Bose](https://www.linkedin.com/in/sunandan-bose/);
-- 📝[Resume]()
+- 📝[Resume](https://drive.google.com/file/d/1nARwPhVoYJ6-csHWOlnYEcAPbxksd1OK/view?usp=sharing)
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
@@ -55,4 +58,6 @@ Java   30 mins         ███████████████████
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SunandanBose&show_icons=true&theme=gotham" alt="SunandanBose" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SunandanBose&show_icons=true&theme=gotham" alt="SunandanBose" /></p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunandanBose)
