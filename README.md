@@ -18,7 +18,7 @@
 
 Hi, I'm [Sunandan Bose](https://www.linkedin.com/in/sunandan-bose/), a Backend Developer 🚀 from India, currently, I'm working in  🙍🏽‍♂️ [Oracle](https://opensource.creativecommons.org/community/community-team/members/)<img align="left" alt="Sunandan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />, Mentor 👨🏽‍💼[@BITSoC](https://github.com/BITSoC) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fneolift.in%2Fdigital-marketing%2F&psig=AOvVaw0FkX5u44gmIWnsvDhjit_8&ust=1607576328807000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDtvtGOwO0CFQAAAAAdAAAAABAD?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/SunandanBose/SunandanBose/blob/main/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
