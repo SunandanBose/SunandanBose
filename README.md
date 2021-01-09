@@ -9,7 +9,7 @@
   <img align="left" alt="Sunandan's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" />
 </a>
 <a href="https://leetcode.com/sunandanbose17/">
-  <img align="left" alt="Sunandan's Leetcode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+  <img align="left" alt="Sunandan's Leetcode" width="100px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SunandanBose.SunandanBose)
