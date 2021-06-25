@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Sunandan Bose](https://www.linkedin.com/in/sunandan-bose/), a Backend Developer 🚀 from India, currently, I'm working in  🙍🏽‍♂️ [Oracle](https://www.oracle.com/in/index.html)<img align="left" alt="Sunandan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />, Senior Application Engineer. Beside's programming, I am a storyteller, listener, traveler, a cricket enthusiast, and whatnot. I like to have fun, and love to cheer the people with whom I work with.
+Hi, I'm [Sunandan Bose](https://www.linkedin.com/in/sunandan-bose/), a Backend Developer 🚀 from India, currently, I'm working in  🙍🏽‍♂️ [Adobe](https://www.adobe.com/)<img align="left" alt="Sunandan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />, Senior Application Engineer. Beside's programming, I am a storyteller, listener, traveler, a cricket enthusiast, and whatnot. I like to have fun, and love to cheer the people with whom I work with.
 <br />
 Message me if you are looking for a great opportunity at Oracle, India. 
   <img align="right" alt="GIF" src="https://github.com/SunandanBose/SunandanBose/blob/main/code.gif?raw=true" width="500" height="320" />
