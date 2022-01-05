@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there <img src="gif/wave.gif" width="25px">
 <a href="https://www.linkedin.com/in/sunandan-bose/">
   <img align="left" alt="Sunandan's LinkdeIN" width="22px" src="icons/linkedin.png" />
 </a>
@@ -19,7 +19,7 @@
 Hi, I'm [Sunandan Bose](https://sunandan.vercel.app/), a Backend Developer 🚀 from India, currently, I'm working in  🙍🏽‍♂️ [Adobe](https://www.adobe.com/)<img align="left" alt="Sunandan's Leetcode" width="22px" src="icons/coder.png" />, Senior Application Engineer. Beside's programming, I am a storyteller, listener, traveler, a cricket enthusiast, and whatnot. I like to have fun, and love to cheer the people with whom I work with.
 <br />
 Message me if you are looking for a great opportunity at Adobe, India. 
-  <img align="right" alt="GIF" src="https://github.com/SunandanBose/SunandanBose/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="gif/code.gif" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
