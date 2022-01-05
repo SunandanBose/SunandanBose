@@ -1,15 +1,15 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/sunandan-bose/">
-  <img align="left" alt="Sunandan's LinkdeIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" />
+  <img align="left" alt="Sunandan's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
 </a>
 <a href="https://www.instagram.com/sunandanbose/">
-  <img align="left" alt="Sunandan's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384063.svg" />
+  <img align="left" alt="Sunandan's Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" />
 </a>
 <a href="https://www.facebook.com/sunandan.bose.3/">
-  <img align="left" alt="Sunandan's Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/174/174848.svg" />
+  <img align="left" alt="Sunandan's Instagram" width="22px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1641404487~hmac=82a2debdfb5fe4ba5c2ac4c5ce03c4c7" />
 </a>
 <a href="https://leetcode.com/sunandanbose17/">
-  <img align="left" alt="Sunandan's Leetcode" width="100px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+  <img align="left" alt="Sunandan's Leetcode" width="22px" src="https://cdn-icons.flaticon.com/png/512/4749/premium/4749474.png?token=exp=1641404546~hmac=ae58299fc4ce8e82c8733beae2989637" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=SunandanBose.SunandanBose)
